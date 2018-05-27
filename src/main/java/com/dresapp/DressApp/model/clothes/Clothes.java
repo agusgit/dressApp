@@ -12,4 +12,9 @@ public class Clothes {
     private String brand;
     private String size;
     private String picture;
+    private Status status;
+    private String ownerID;
+    private Status state;
+    private boolean visible;
+    private int usesCount;
 }

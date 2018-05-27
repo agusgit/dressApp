@@ -15,6 +15,9 @@ public class User {
     private String password;
     private UserInfo userInfo;
 //    private Wardrobe wardrobe;
+    //TODO add friends
+//    private Friends friends;
+    //private Calendar calendar;
 
     public User() {
     }
